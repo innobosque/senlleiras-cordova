@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{c as o,o as r,b as s}from"./index.90139639.js";const a={},t=s("h1",null,"Dise\xF1adores, programadores y colaboradores de este proyecto",-1),c=[t];function n(_,d){return r(),o("div",null,c)}var m=e(a,[["render",n]]);export{m as default};
