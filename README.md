@@ -1,6 +1,6 @@
 # Senlleiras
 
 # Ficheros (aab y apk)
-  SenlleirasApp/platforms/android/app/release
+  SenlleirasApp/release
 # Keystores
   keystores/key-store-info.jpg
